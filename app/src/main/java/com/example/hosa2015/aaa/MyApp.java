@@ -11,7 +11,7 @@ public class MyApp extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        PlatformConfig.setWeixin("wx6fa74cf71fb1c489","d4624c36b6795d1d99dcf0547af5443d");
+        PlatformConfig.setWeixin("wx1e48313855ee1630","4d395bee2cc7ce077773e0cc9d93da97");
         PlatformConfig.setQQZone("1105010761","QWCN9CxD0blbth4M");
         PlatformConfig.setSinaWeibo("1802731919","1780dd641fba0d3656a071c4e74ed840");
     }
